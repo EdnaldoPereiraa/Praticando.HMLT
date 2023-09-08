@@ -1,0 +1,17 @@
+body{
+    margin: 10%;  
+    background-image: url(img/planodefundo.jpg);
+}
+h1{
+    text-align: center;
+}
+.img{
+    text-align: center;
+}
+.hi, h2, p, ul, label{
+    color: white;
+}
+header{
+    font-family: cursive;
+    color: white;
+}
